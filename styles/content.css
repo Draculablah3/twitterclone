@@ -1,0 +1,336 @@
+.cover-photo{
+  width: 100%;
+}
+
+.profile-pic{
+  width: 129px;
+  border-radius: 170px;
+  border: 4px solid white;
+  margin-top: -90px; 
+}
+
+.profile-pic-row{
+ height: 60px;
+ margin-top: -4px;
+ margin-bottom: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
+
+.more-info-icon{
+  width: 43px;
+  height: 43px;
+  margin-right: -290px;
+}
+
+.follow-button{
+  background-color: black;
+  color: rgb(233, 231, 231);
+  font-size: 15px;
+  margin-right: 15px;
+  font-weight: bold;
+  padding: 8px 15px;
+  border-radius: 25px;
+}
+
+.main-content{
+  flex: 1;
+}
+
+.center-content{
+  padding-left: 15px;
+}
+
+.tweets-container{
+  height: 3000px;
+  padding-left: 10px;
+}
+
+.twitter-name-second-row{
+  display: flex;
+  align-items: center;
+}
+
+.second-row-name{
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.username{
+  color: rgb(92, 78, 78);
+  font-size: 14px;
+  margin-top: 3px;
+  margin-bottom: 12px;
+}
+
+.bio{
+  font-family: arial;
+  color: rgb(26, 25, 25);
+  font-size: 15px;
+  margin-bottom: 12px;
+}
+.careless-email-address{
+  color: rgb(0, 158, 231);
+}
+
+.additional-info{
+ font-size: 14px;
+ font-weight: 500;
+ color: rgb(92, 78, 78);
+ display: flex;
+ align-items: center;
+ height: 20px;
+ margin-bottom: 10px;
+}
+
+.additional-info-icons{
+  height: 80%;
+  opacity: 0.8;
+  margin-right: 5px;
+}
+
+.icon-description{
+  margin-right: 15px;
+}
+
+.youtube-link{
+  margin-right: 15px;
+  color: rgb(0, 158, 231);
+}
+
+.followers-count{
+  display: flex;
+  align-items: end;
+  margin-bottom: 10px;
+}
+
+.count{
+  font-weight: bold;
+  font-size: 14px;
+  color: rgb(19, 18, 18);
+  margin-right: 5px;
+}
+
+.followers{
+  font-size: 13px;
+  font-weight: 500;
+  color: rgb(92, 78, 78);
+  margin-right: 15px;
+}
+
+.tweets-media-likes-container{
+  font-size: 15px;
+  font-weight: 600;
+  font-family: arial;
+  color: rgb(143, 136, 136);
+  height: 60px;
+  display: flex;
+  margin-top: 20px;
+}
+
+.tweets{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 135px;
+}
+
+.tweet-and-replies{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  flex: 1;
+}
+
+.media,
+.likes{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 130px;
+}
+
+.tweet-post-grid-container{
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+
+}
+
+.tweets-grid-container{
+ padding: 13px 20px 12px 0;
+ border-top: 1px solid rgb(233, 233, 233);
+ border-bottom: 1px solid rgb(233, 233, 233);
+ display: flex;
+}
+
+.tweets-grid-second-row{
+  display: flex;
+  flex-direction: column;
+}
+
+.tweet-profile-pic-container{
+  padding-right: 17px;
+}
+
+.tweet-profile-pic{
+  width: 50px;
+  border-radius: 25px;
+}
+
+.name-badge-username{
+  font-size: 16px;
+  padding-right: 10px;
+  display: flex;
+  position: relative;
+}
+
+.tweet-name{
+  font-weight: bold;
+}
+
+.tweet-check-badge{
+  width: 20px;
+  height: 20px;
+  margin-left: 2px;
+  margin-right: 5px;
+}
+
+.tweet-username{
+  font-size: 13.5px;
+  color: rgb(92, 78, 78);
+}
+
+.tweet-post-more-icon{
+  width: 20px;
+  height: 30px;
+  position: absolute;
+  right: 0;
+  
+
+  
+  margin-top: -6px;
+}
+
+.tweet-post{
+  margin-top: 2px;
+  font-size: 13.5px;
+}
+
+.tweet-post1{
+  font-size: 13.5px;
+  color: #009ee7;
+}
+.video-test-container{
+  width: px;
+  height: 280px;
+
+}
+
+.video1-container{
+ width: 510px;
+ height: 282px;
+ border-radius: 18px;
+ overflow: hidden;
+ margin-top: 20px;
+}
+
+.video1{
+  width: 100%;
+  height: 100%;
+}
+
+.kumu-link-picture{
+ width: 509px;
+ margin-top: 11px;
+ margin-bottom: 10px;
+}
+
+.kumu-link-description-container{
+  padding-left: 10px;
+  padding-bottom: 10px;
+  font-size: 14.5px;
+  margin-top: -5px;
+  border-left: 1px solid #c9c6c6;
+  border-right: 1px solid #c9c6c6;
+  border-bottom: 1px solid #c9c6c6;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  line-height: 23px;
+}
+
+.kumu-app-link{
+  font-size: 14px;
+  color: #666464;
+}
+
+.Kumu-Live{
+ color: #666464;
+}
+.tweet-post-icons-row{
+  margin-top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 85px;
+  
+}
+
+.icons-count{
+  margin-right: 20px;
+  font-size: 13px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+
+.comment-icon{
+  width: 23px;
+  height: 23px;
+  margin-right: 10px;
+  opacity: 0.8;
+}
+.retweet-icon{
+  width: 18px;
+  height: 25px;
+  margin-right: 10px;
+  opacity: 0.6;
+}
+.like-icon{
+  width: 15.5px;
+  height: 16px;
+  margin-right: 10px;
+}
+.share-icon{
+  width: 20px;
+  height: 19px;
+  margin-right: 10px;
+  opacity: 0.6;
+}
+
+.tweet-post-icons-count{
+  color: rgb(92, 78, 78);
+}
+
+.right-side-content{
+  width: 425px;
+  height: 3000px;
+  background-color: lightslategrey;
+}
+
+.side-pictures{
+  width: 50%;
+  
+}
+
+.content-container{
+  display: flex;
+  flex-direction: row;
+  height: 3000px;
+}
+
+
